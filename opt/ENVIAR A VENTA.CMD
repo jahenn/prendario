@@ -1,0 +1,2 @@
+@echo off
+C:\Dropbox\QTBLN\PRENDARIO_VENTAS.EXE EDICION - -

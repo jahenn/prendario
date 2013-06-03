@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prendario.printers
+</name>
+</assembly>
+<members>
+<member name="T:prendario.printers.dsDatos.datosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prendario.printers.dsDatos.datosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prendario.printers.dsDatos.datosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prendario.printers.dsDatos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:prendario.printers.dsPagos.dtPagosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prendario.printers.dsPagos.dtPagosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prendario.printers.dsPagos.dtPagosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prendario.printers.dsPagos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

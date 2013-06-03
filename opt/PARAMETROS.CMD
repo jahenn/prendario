@@ -1,0 +1,2 @@
+@echo off
+C:\Dropbox\QTBLN\PRENDARIO_PARAMETROS.EXE OK
